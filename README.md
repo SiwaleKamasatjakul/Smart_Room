@@ -7,4 +7,5 @@ The study focuses on three key features:
 1. Adjusting the light bulb to compensate light from sunlight with accuracy of 80%.
 2. Counting the number of people in the room through a computer vision system with accuracy of 80%.
 3. Unlocking the door using a face recognition system with accuracy of 70%.
-And the results it is shown that all features is operate properly within the criteria .
+
+And the results it is shown that all features is operate properly within the criteria.
