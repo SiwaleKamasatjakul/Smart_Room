@@ -9,3 +9,5 @@ The study focuses on three key features:
 3. Unlocking the door using a face recognition system with accuracy of 70%.
 
 And the results it is shown that all features is operate properly within the criteria.
+
+[Here is our thesis.](https://o365ku-my.sharepoint.com/:b:/g/personal/siwale_k_live_ku_th/EWtIoq-NtKZMlj3L_3_UsKUB0BUhdxsW9rNj7tfFB7FFTQ?e=ML5GRx)
